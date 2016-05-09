@@ -1,0 +1,28 @@
+name: found
+favicon: null
+layout_spectrum: 0.4203277723863721
+typography_spectrum: 0.3471509045921266
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.0038801683112978935
+  lightness: 0.9749721062835306
+  saturation: 0.535761367995292
+  rhythmicContrast: 0.864937542937696
+purpose: []
