@@ -1,7 +1,7 @@
 name: found
 favicon: null
-layout_spectrum: 0.4203277723863721
-typography_spectrum: 0.3471509045921266
+layout_spectrum: 1
+typography_spectrum: 0.93149
 cta:
   domain: null
   bucket: null
